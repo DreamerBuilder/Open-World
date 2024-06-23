@@ -1,4 +1,7 @@
 # Open-World
-this repository is in progress and not useably as of right now.
-if you are interested in contributing to this project, feel free to contact me.
+This repository is in progress and not useably as of right now.
+
+Goal of this repository is to find supporters, for a game idea in which people can add their ideas to an open world game.
+
+If you are interested in contributing to this project, feel free to contact me.
 Discord contact data will follow soon.
