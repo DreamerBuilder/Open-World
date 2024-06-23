@@ -1,5 +1,5 @@
 # Open-World
-This repository is in progress and not useably as of right now.
+This repository is in progress and not useable as of right now.
 
 Goal of this repository is to find supporters, for a game idea in which people can add their ideas to an open world game.
 
